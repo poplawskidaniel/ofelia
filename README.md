@@ -1,3 +1,8 @@
+# Archived
+This repository was moved to https://git.disroot.org/poplawskidaniel/ofelia
+Any additional changes will be added there.
+
+
 # Ofelia - a job scheduler [![GitHub version](https://badge.fury.io/gh/poplawskidaniel%2Fofelia.svg)](https://github.com/poplawskidaniel/ofelia/releases) ![Test](https://github.com/poplawskidaniel/ofelia/workflows/Test/badge.svg)
 
 <img src="https://weirdspace.dk/FranciscoIbanez/Graphics/Ofelia.gif" align="right" width="180px" height="300px" vspace="20" />
